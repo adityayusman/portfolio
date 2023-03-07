@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.006148eb.css",
+    "main.js": "/portfolio/static/js/main.a2b1075f.js",
+    "static/media/about.jpg": "/portfolio/static/media/about.62fc1d12e876ab316832.jpg",
+    "static/media/bakeryshop.png": "/portfolio/static/media/bakeryshop.70261a51cbb919c4bd72.png",
+    "static/media/mininetflix.png": "/portfolio/static/media/mininetflix.b7cb9ac0fd826feb866a.png",
+    "static/media/findbook.png": "/portfolio/static/media/findbook.d776f23ee8f7ca280112.png",
+    "static/media/blogger-website.png": "/portfolio/static/media/blogger-website.dc4d2be9dff8f5ef93d2.png",
+    "static/media/book-rentals.png": "/portfolio/static/media/book-rentals.c10cdd688e8a038576c7.png",
+    "static/media/react.png": "/portfolio/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/laravel.png": "/portfolio/static/media/laravel.d33ce4fe2becb3a46d8f.png",
+    "static/media/html.png": "/portfolio/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/mysql.png": "/portfolio/static/media/mysql.52eb1a2967124155750d.png",
+    "static/media/tailwind.png": "/portfolio/static/media/tailwind.e47ac876b8d4d0bba47a.png",
+    "static/media/bootstrap.png": "/portfolio/static/media/bootstrap.eea76c2bea3c0e729296.png",
+    "static/media/css.png": "/portfolio/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/javascript.png": "/portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/portfolio/index.html",
+    "main.006148eb.css.map": "/portfolio/static/css/main.006148eb.css.map",
+    "main.a2b1075f.js.map": "/portfolio/static/js/main.a2b1075f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.006148eb.css",
+    "static/js/main.a2b1075f.js"
+  ]
+}
