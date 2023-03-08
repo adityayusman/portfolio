@@ -26,7 +26,7 @@ const About = () => {
               Saya seorang Fresh Graduate yang memiliki keahlian dan passion
               dalam membangun website, termasuk frontend dan backend. Saya
               menyukai suatu hal teknologi baru, dapat beradaptasi dengan cepat
-              dan dapat bekerja secara individu maupun kelompok.
+              dan dapat bekerja secara individu maupun dalam tim.
             </p>
           </div>
         </div>
