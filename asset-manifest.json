@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.006148eb.css",
-    "main.js": "/portfolio/static/js/main.de712c43.js",
+    "main.js": "/portfolio/static/js/main.51a9a2c3.js",
     "static/media/about.jpg": "/portfolio/static/media/about.62fc1d12e876ab316832.jpg",
     "static/media/bakeryshop.png": "/portfolio/static/media/bakeryshop.70261a51cbb919c4bd72.png",
     "static/media/mininetflix.png": "/portfolio/static/media/mininetflix.b7cb9ac0fd826feb866a.png",
     "static/media/findbook.png": "/portfolio/static/media/findbook.d776f23ee8f7ca280112.png",
-    "static/media/RESUME.pdf": "/portfolio/static/media/RESUME.52a8a5ee148ca3ecd595.pdf",
+    "static/media/RESUME.pdf": "/portfolio/static/media/RESUME.f3f2f5001508697f6982.pdf",
     "static/media/blogger-website.png": "/portfolio/static/media/blogger-website.dc4d2be9dff8f5ef93d2.png",
     "static/media/book-rentals.png": "/portfolio/static/media/book-rentals.c10cdd688e8a038576c7.png",
     "static/media/react.png": "/portfolio/static/media/react.0cf951a69d8e58f83f9d.png",
@@ -19,10 +19,10 @@
     "static/media/javascript.png": "/portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/portfolio/index.html",
     "main.006148eb.css.map": "/portfolio/static/css/main.006148eb.css.map",
-    "main.de712c43.js.map": "/portfolio/static/js/main.de712c43.js.map"
+    "main.51a9a2c3.js.map": "/portfolio/static/js/main.51a9a2c3.js.map"
   },
   "entrypoints": [
     "static/css/main.006148eb.css",
-    "static/js/main.de712c43.js"
+    "static/js/main.51a9a2c3.js"
   ]
 }
